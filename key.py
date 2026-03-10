@@ -1,0 +1,2 @@
+BASE_URL="https://tg-f1599ec5-b595-4bc5-8466-beb036fadafb.tg-2635877100.i.tgcloud.io"
+KEY="5C8Q8iPSHGJXiEi4mY3mAqs1nrxNDNF7a4a0K15W"
